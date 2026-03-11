@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rahulee2102.github.io/Pressoria/sitemap.xml
